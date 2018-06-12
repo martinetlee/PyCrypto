@@ -5,7 +5,7 @@ Using Python libraries [PyNacl]/[pyca/Cryptography] to implement some cryptograp
 
 ## Cryptographic Tools
 - [x] Msg Digest using Hash Function (PyNacl)
-- [x] Public-Key Cryptography (Generate key pairs and sign msgs)
+- [x] Public-Key Cryptography, Generate key pairs and sign msgs (PyNacl)
 
 
 ## Cryptogrqphic protocols
@@ -27,6 +27,7 @@ Using Python libraries [PyNacl]/[pyca/Cryptography] to implement some cryptograp
 
 ## Special Data structures
 - [x] a Hashed linked list (prototype of blockchain) (PyNacl)
+- [ ] Merkel Tree (PyNacl)
 
 ## Cryptocurrency schemes
 - [ ] Proof of work scheme
